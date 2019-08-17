@@ -54,7 +54,9 @@
          ![many-to-many](https://fmhelp.filemaker.com/help/18/fmp/en/FMP_Help/images/relational.07.06.1.png)
 
 
-    - example : 
+
+   - **example :**
+   
     ![relationship](https://i0.wp.com/3.bp.blogspot.com/-UDSw40EeO7E/VrgkoQtRSfI/AAAAAAAAAXA/R5xhNxFV46w/s400/database-mapping-coordinalities.jpg?resize=400%2C303&ssl=1)
 
 **Advatages :**
