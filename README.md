@@ -47,7 +47,7 @@
     - Many-to-many relationships: 
         - When multiple entities from a table can be         associated with multiple entities in another table, they are said to have a many-to-many relationship.
 
-        - But Relational database systems (RBBS) usually don't allow you to implement a direct many-to-many relationship between two tables.
+        - But Relational database system usually don't allow you to implement a direct many-to-many relationship between two tables.
 
         - To avoid this problem, you can break the many-to-many relationship into two one-to-many relationships by using a third table, called a join table as in the picture
 
